@@ -153,7 +153,7 @@ GET /api/tmdb?id={TMDB_ID}&type=movie
 - ❌ Custom branding
 - ❌ Ad-free experience
 
-### Starter ($5/6000 token)
+### Starter ($5/1000 token)
 - ✅ 1,000 watch token
 - ✅ 1 domains
 - ✅ Ad-free player
