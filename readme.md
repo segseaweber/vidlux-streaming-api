@@ -148,27 +148,28 @@ GET /api/tmdb?id={TMDB_ID}&type=movie
 ## 💎 Pricing Plans
 
 ### Free Tier
-- ✅ 1,000 views/month
-- ✅ Single domain
+- ✅ Unlimited views/month
 - ✅ Community support
 - ❌ Custom branding
 - ❌ Ad-free experience
 
-### Premium ($19/month)
-- ✅ 50,000 views/month
-- ✅ 5 domains
-- ✅ Custom logo & colors
+### Starter ($5/1000 token)
+- ✅ 1,000 watch token
+- ✅ 1 domains
 - ✅ Ad-free player
 - ✅ Priority support
 - ✅ Usage analytics
 
-### Enterprise (Custom)
-- ✅ Unlimited views
-- ✅ Unlimited domains
+### Professional ($25/1000 token)
+ ✅ 6,000 watch token
+- ✅ 1 domains
 - ✅ Dedicated servers
 - ✅ SLA guarantee
 - ✅ 24/7 support
 - ✅ Custom features
+- ✅ Ad-free player
+- ✅ Priority support
+- ✅ Usage analytics
 
 [View Pricing Details →](https://vidlux.site/dashboard/payment)
 
