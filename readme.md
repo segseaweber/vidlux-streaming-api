@@ -83,16 +83,7 @@ Visit [vidlux.site/register](https://vidlux.site/register) to create a free acco
 
 Add your domain to the whitelist in your [dashboard](https://vidlux.site/dashboard/domains) to authorize API requests.
 
-### 3. Start Embedding
 
-Use our simple iframe embed or make direct API calls:
-
-```javascript
-// Fetch movie stream
-fetch('https://vidlux.site/api/extract/vixsrc?id=603692&type=movie&key=YOUR_API_KEY')
-  .then(res => res.json())
-  .then(data => console.log(data.streams));
-```
 
 ---
 
@@ -116,16 +107,12 @@ https://vidlux.site/embed/tv/{TMDB_ID}/{SEASON}/{EPISODE}?key={API_KEY}
 |-----------|------|----------|-------------|
 | `key` | string | Yes | Your API key |
 | `color` | hex | No | Primary color (e.g., `ff0000`) |
-| `logo` | url | No | Your logo URL (encoded) |
 | `autoplay` | boolean | No | Auto-play video (default: `true`) |
 | `server` | boolean | No | Show server selector (default: `true`) |
 
 ### API Endpoints
 
-#### Get Movie/TV Stream
-```http
-GET /api/extract/{server}?id={TMDB_ID}&type=movie&key={API_KEY}
-```
+
 
 **Available Servers:**
 - `ALpha` - Alpha Server (HLS)
