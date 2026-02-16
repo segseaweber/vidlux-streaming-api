@@ -128,12 +128,12 @@ GET /api/extract/{server}?id={TMDB_ID}&type=movie&key={API_KEY}
 ```
 
 **Available Servers:**
-- `vixsrc` - Alpha Server (HLS)
-- `vidrock` - Nova Server (HLS)
+- `ALpha` - Alpha Server (HLS)
+- `Nova` - Nova Server (HLS)
 - `astra` - Astra Server (HLS)
-- `flixhq` - Flix Server (HLS)
-- `mp4api` - Delta Server (MP4)
-- `pcembed` - Omega Server (HLS)
+- `flix` - Flix Server (HLS)
+- `Delta` - Delta Server (MP4)
+- `Omega` - Omega Server (HLS)
 
 #### Get Subtitles
 ```http
