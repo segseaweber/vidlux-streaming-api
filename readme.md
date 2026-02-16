@@ -160,7 +160,7 @@ GET /api/tmdb?id={TMDB_ID}&type=movie
 - ✅ Priority support
 - ✅ Usage analytics
 
-### Professional ($25/1000 token)
+### Professional ($25/6000 token)
  ✅ 6,000 watch token
 - ✅ 1 domains
 - ✅ Dedicated servers
